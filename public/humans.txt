@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
+  Dev: Kara Carrell
   Site:
-  Twitter:
-  Location:
+  Twitter: @KaraAJC
+  Location: Chicago, IL
 
 /* THANKS */
   Daniel Kehoe (@rails_apps) for the RailsApps project
