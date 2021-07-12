@@ -27,7 +27,8 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
-    addressable (2.3.7)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     arel (5.0.1.20140414130214)
     autoprefixer-rails (5.1.7.1)
       execjs
@@ -117,6 +118,7 @@ GEM
       oauth2 (~> 1.0)
       omniauth (~> 1.2)
     pg (0.18.1)
+    public_suffix (2.0.5)
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
     rack (1.5.2)
